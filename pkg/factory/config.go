@@ -13,7 +13,7 @@ import (
 	"github.com/asaskevich/govalidator"
 	"github.com/google/uuid"
 
-	"github.com/free5gc/pcf/internal/logger"
+	"github.com/f0lkert/pcf/internal/logger"
 )
 
 const (

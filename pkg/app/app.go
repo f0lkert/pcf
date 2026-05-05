@@ -1,8 +1,8 @@
 package app
 
 import (
-	pcf_context "github.com/free5gc/pcf/internal/context"
-	"github.com/free5gc/pcf/pkg/factory"
+	pcf_context "github.com/f0lkert/pcf/internal/context"
+	"github.com/f0lkert/pcf/pkg/factory"
 )
 
 type App interface {

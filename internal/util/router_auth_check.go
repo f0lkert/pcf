@@ -6,8 +6,8 @@ import (
 	"github.com/gin-gonic/gin"
 
 	"github.com/free5gc/openapi/models"
-	pcf_context "github.com/free5gc/pcf/internal/context"
-	"github.com/free5gc/pcf/internal/logger"
+	pcf_context "github.com/f0lkert/pcf/internal/context"
+	"github.com/f0lkert/pcf/internal/logger"
 )
 
 type RouterAuthorizationCheck struct {

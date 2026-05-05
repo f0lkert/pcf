@@ -8,9 +8,9 @@ import (
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/amf/Communication"
 	"github.com/free5gc/openapi/models"
-	pcf_context "github.com/free5gc/pcf/internal/context"
-	"github.com/free5gc/pcf/internal/logger"
-	"github.com/free5gc/pcf/pkg/factory"
+	pcf_context "github.com/f0lkert/pcf/internal/context"
+	"github.com/f0lkert/pcf/internal/logger"
+	"github.com/f0lkert/pcf/pkg/factory"
 	sbi_metrics "github.com/free5gc/util/metrics/sbi"
 )
 

@@ -12,8 +12,8 @@ import (
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/oauth"
-	"github.com/free5gc/pcf/internal/logger"
-	"github.com/free5gc/pcf/pkg/factory"
+	"github.com/f0lkert/pcf/internal/logger"
+	"github.com/f0lkert/pcf/pkg/factory"
 	"github.com/free5gc/util/idgenerator"
 	"github.com/free5gc/util/mongoapi"
 )

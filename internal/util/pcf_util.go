@@ -16,8 +16,8 @@ import (
 	"github.com/free5gc/openapi/pcf/PolicyAuthorization"
 	"github.com/free5gc/openapi/pcf/SMPolicyControl"
 	"github.com/free5gc/openapi/udr/DataRepository"
-	"github.com/free5gc/pcf/internal/context"
-	"github.com/free5gc/pcf/internal/logger"
+	"github.com/f0lkert/pcf/internal/context"
+	"github.com/f0lkert/pcf/internal/logger"
 )
 
 const TimeFormat = time.RFC3339

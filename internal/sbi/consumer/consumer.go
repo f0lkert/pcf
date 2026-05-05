@@ -8,8 +8,8 @@ import (
 	"github.com/free5gc/openapi/nrf/NFManagement"
 	"github.com/free5gc/openapi/pcf/AMPolicyControl"
 	"github.com/free5gc/openapi/udr/DataRepository"
-	pcf_context "github.com/free5gc/pcf/internal/context"
-	"github.com/free5gc/pcf/pkg/factory"
+	pcf_context "github.com/f0lkert/pcf/internal/context"
+	"github.com/f0lkert/pcf/pkg/factory"
 )
 
 type pcf interface {

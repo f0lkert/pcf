@@ -1,8 +1,8 @@
 package processor
 
 import (
-	"github.com/free5gc/pcf/internal/sbi/consumer"
-	"github.com/free5gc/pcf/pkg/app"
+	"github.com/f0lkert/pcf/internal/sbi/consumer"
+	"github.com/f0lkert/pcf/pkg/app"
 )
 
 type PCF interface {

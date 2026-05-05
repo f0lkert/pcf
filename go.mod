@@ -1,4 +1,4 @@
-module github.com/free5gc/pcf
+module github.com/f0lkert/pcf
 
 go 1.25.5
 

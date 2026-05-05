@@ -12,9 +12,9 @@ import (
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/pcf/PolicyAuthorization"
-	pcf_context "github.com/free5gc/pcf/internal/context"
-	"github.com/free5gc/pcf/internal/logger"
-	"github.com/free5gc/pcf/internal/util"
+	pcf_context "github.com/f0lkert/pcf/internal/context"
+	"github.com/f0lkert/pcf/internal/logger"
+	"github.com/f0lkert/pcf/internal/util"
 	"github.com/free5gc/util/metrics/sbi"
 )
 

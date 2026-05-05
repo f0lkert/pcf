@@ -11,7 +11,7 @@ import (
 	"github.com/asaskevich/govalidator"
 	"gopkg.in/yaml.v2"
 
-	"github.com/free5gc/pcf/internal/logger"
+	"github.com/f0lkert/pcf/internal/logger"
 )
 
 var PcfConfig *Config
